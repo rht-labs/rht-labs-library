@@ -73,6 +73,7 @@ This is a list of books (in no particular order) we keep in our library(s) which
 | Web Operations: Keeping the Data On Time | by John Allspaw, Jesse Robbins |
 | Kanban: Successful Evolutionary Change for Your Technology Business | by Avid J. Anderson |
 | Introduction To Real Itsm | by Rob England |
+| The Innovator's Hypothesis | by Michael Schrage |
 
 
 This list is inspired by these sources and others:
