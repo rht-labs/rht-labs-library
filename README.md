@@ -72,7 +72,9 @@ This is a list of books (in no particular order) we keep in our library(s) which
 | Poke the Box Hardcover | by Seth Godin |
 | Web Operations: Keeping the Data On Time | by John Allspaw, Jesse Robbins |
 | Kanban: Successful Evolutionary Change for Your Technology Business | by Avid J. Anderson |
-| Introduction To Real Itsm | by Rob England |
+| Introduction To Real ITSM | by Rob England |
+| Crossing the Chasm | by Geoffrey A. Moore |
+| The Innovator's Hypothesis | by Michael Schrage |
 | Time Management for System Administrators | Thomas A. Limoncelli |
 
 
