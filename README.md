@@ -1,5 +1,5 @@
 # Red Hat Open Innovation Labs Library
-This is a list of books we keep in our library(s) and we love and recommend.
+This is a list of books (in no particular order) we keep in our library(s) which we love and recommend.
 
 | Title | Author(s) |
 | :--- | :--- |
@@ -44,9 +44,35 @@ This is a list of books we keep in our library(s) and we love and recommend.
 | Culture & Empire: Digital Revolution | by Pieter Hintjens |
 | Implementing Domain-Driven Design | by Vaughn Vernon |
 | Domain Driven Design Distilled | by Vaughn Vernon |
-| Impact Mapping: Making a big impact with software products and projects
-Book | by Gojko Adzic |
-
+| Impact Mapping: Making a big impact with software products and projects | by Gojko Adzic |
+| The Phoenix Project | by Gene Kim, Kevin Behr, George Spafford |
+| Continuous Integration: Improving Software Quality and Reducing Risk | by Paul Duvall, Steve Matyas, and Andrew Glover |
+| Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation | by Jez Humble and David Farley |
+| The Visible Ops Handbook | by Kevin Behr, Gene Kim and George Spafford |
+| DevOps for Developers | by Michael Hüttermann |
+| The Goal: A Process of Ongoing Improvement | by Eliyahu M. Goldratt, Jeff Cox Author, David Whitford |
+| What is DevOps? | by Mike Loukides |
+| Building a DevOps Culture | by Mandi Walls |
+| Next Gen DevOps: Creating the DevOps Organisation | by Grant Smith |
+| The IT Manager’s Guide to Continuous Delivery: Delivering Software in Days | by Andrew Phillips, Michiel Sens |
+| Leading the Transformation: Applying Agile and DevOps Principles at Scale | by Gary Gruver, Tommy Mouser |
+| The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses | by Eric Ries |
+| Thinking in Systems: A Primer | by Donella H. Meadows |
+| An Introduction to General Systems Thinking | by Gerald M. Weinberg |
+| The Principles of Product Development Flow: Second Generation Lean Product Development | by Donald G. Reinertsen |
+| Out of the Crisis | by W. Edwards Deming |
+| In Search of Certainty: The Science of Our Information Infrastructure | by Mark Burgess |
+| Thinking in Promises: Designing Systems for Cooperation | by Mark Burgess |
+| Promise Theory: Principles and Applications | by Mark Burgess |
+| Principles of Network and System Administration | by Mark Burgess |
+| Toyota Kata: Managing People for Improvement, Adaptiveness and Superior Results | by Mike Rother |
+| Team Geek: A Software Developer's Guide to Working Well with Others | by Brian W. Fitzpatrick |
+| Just Culture: Balancing Safety and Accountability | by Sidney Dekker |
+| The ETTO Principle: Efficiency-Thoroughness Trade-Off: Why Things That Go Right Sometimes Go Wrong | by Erik Hollnagel |
+| Poke the Box Hardcover | by Seth Godin |
+| Web Operations: Keeping the Data On Time | by John Allspaw, Jesse Robbins |
+| Kanban: Successful Evolutionary Change for Your Technology Business | by Avid J. Anderson |
+| Introduction To Real Itsm | by Rob England |
 
 
 This list is inspired by these sources and others:
@@ -54,3 +80,6 @@ This list is inspired by these sources and others:
 * https://enterprisersproject.com/article/2016/11/2016-digital-transformation-book-contest
 * http://ramiro.org/vis/hn-most-linked-books-unique-users/
 * http://hintjens.com/books
+* https://devops.com/five-great-books-on-devops/
+* https://blog.versionone.com/the-7-best-devops-books/
+* https://www.quora.com/What-are-the-best-books-on-devops
