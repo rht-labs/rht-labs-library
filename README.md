@@ -74,6 +74,7 @@ This is a list of books (in no particular order) we keep in our library(s) which
 | Kanban: Successful Evolutionary Change for Your Technology Business | by Avid J. Anderson |
 | Introduction To Real ITSM | by Rob England |
 | Crossing the Chasm | by Geoffrey A. Moore |
+| The Innovator's Hypothesis | by Michael Schrage |
 
 
 This list is inspired by these sources and others:
