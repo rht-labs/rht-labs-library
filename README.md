@@ -3,6 +3,7 @@ This is a list of books (in no particular order) we keep in our library(s) which
 
 | Title | Author(s) |
 | :--- | :--- |
+| | The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity | Alan Cooper |
 | Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days | by Jake Knapp with John Zeratsky and Braden Kowitz |
 | Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages | by Carlota Perez |
 | The Digital Transformation Playbook: Rethink Your Business for the Digital Age |by David L. Rogers |
