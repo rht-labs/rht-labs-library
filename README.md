@@ -75,6 +75,7 @@ This is a list of books (in no particular order) we keep in our library(s) which
 | Introduction To Real ITSM | by Rob England |
 | Crossing the Chasm | by Geoffrey A. Moore |
 | The Innovator's Hypothesis | by Michael Schrage |
+| Freedom's Forge | by Arthur Herman |
 
 
 This list is inspired by these sources and others:
