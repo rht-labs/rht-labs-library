@@ -2,7 +2,7 @@
 This is a list of books (in no particular order) we keep in our library(s) which we love and recommend.
 
 | Title                                    | Author(s)                                |
-| :--------------------------------------- | :--------------------------------------- |
+| ---------------------------------------- | :--------------------------------------- |
 | The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity | Alan Cooper                              |
 | Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days | by Jake Knapp with John Zeratsky and Braden Kowitz |
 | Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages | by Carlota Perez                         |
@@ -88,7 +88,15 @@ This is a list of books (in no particular order) we keep in our library(s) which
 | Daemon                                   | by Daniel Suarez                         |
 | Freedom                                  | by Daniel Suarez                         |
 | Snow Crash                               | by Neal Stephenson                       |
-
+| Emotional Design: Why We Love (or Hate) Everyday Things | by Don Norman                            |
+| Getting to Yes: Negotiating Agreement Without Giving In | by William L. Ury, Roger Fisher, Bruce M. Patton |
+| Difficult Conversations: How to Discuss What Matters Most | by Douglas Stone, Bruce Patton, Sheila Heen, Roger Fisher |
+| Making Things Happen: Mastering Project Management (Theory in Practice) | by Scott Berkun                          |
+| Competitive Strategy: Techniques for Analyzing Industries and Competitors | by Michael E. Porter                     |
+| The Economy of Cities                    | by Jane Jacobs                           |
+| The Death and Life of Great American Cities | by Jane Jacobs                           |
+| How Buildings Learn: What Happens After They're Built | by Stewart Brand                         |
+| A Pattern Language: Towns, Buildings, Construction (Center for Environmental Structure) | by Christopher Alexander                 |
 
 
 ## Books authored by Red Hat staff:
@@ -96,7 +104,7 @@ This is a list of books (in no particular order) we keep in our library(s) which
 Additionally these books (appearing in no particular order) were writen by or contributed to by Red Hat staff.
 
 | Title                                    | Red Hat Author(s)                     |
-| :--------------------------------------- | :------------------------------------ |
+| ---------------------------------------- | ------------------------------------- |
 | [OpenStack Security Guide](http://docs.openstack.org/security-guide/) | Keith Basil, Shawn Wells              |
 | [Getting Started with OpenShift](http://shop.oreilly.com/product/0636920033226.do) | Steve Pousty                          |
 | [Raspberry Pi Hacks](http://shop.oreilly.com/product/0636920029083.do) | Ruth Suehle, Tom Callaway             |
