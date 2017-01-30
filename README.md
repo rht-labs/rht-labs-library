@@ -97,6 +97,10 @@ This is a list of books (in no particular order) we keep in our library(s) which
 | The Death and Life of Great American Cities | by Jane Jacobs                           |
 | How Buildings Learn: What Happens After They're Built | by Stewart Brand                         |
 | A Pattern Language: Towns, Buildings, Construction (Center for Environmental Structure) | by Christopher Alexander                 |
+| The Mythical Man-Month                   | by Fred Brooks                           |
+| The Pragmatic Programmer                 | by Andrew Hunt, David Thomas             |
+| Code Complete 2nd Edition                | by Steve McConnell                       |
+| Managing Humans                          | by Michael Lopp (aka Rands)              |
 
 
 ## Books authored by Red Hat staff:
@@ -114,7 +118,9 @@ Additionally these books (appearing in no particular order) were writen by or co
 | [Testing Java Microservices](https://www.manning.com/books/testing-java-microservices) | Alex Soto, Jason Porter               |
 | [Microservices for Java Developers](http://www.oreilly.com/programming/free/microservices-for-java-developers.csp) | Christian Posta                       |
 | [Apache Camel Developer's Cookbook](http://a.co/80kGePZ) | Scott Cranton and Jakub Korab         |
-| [Apache Cookbook](https://www.amazon.com/Apache-Cookbook-Solutions-Examples-Administrators/dp/0596529945) | Rich Bowen                            |
+| [Apache Cookbook](https://www.amazon.com/Apache-Cookbook-Solutions-Examples-Administrators/dp/0596529945) | Rich Bowen    |
+| [Apache Administrators' Handbook](https://www.amazon.com/Apache-Administrators-Handbook-Rich-Bowen/dp/0672322749) | Daniel Lopez Ridruejo, Rich Bowen |
+| [The Definitive Guide to Apache mod_rewrite](https://www.amazon.com/Definitive-Apache-mod_rewrite-Guides-Hardcover/dp/1590595610) | Rich Bowen |
 | [Continuous Enterprise Development in Java](http://shop.oreilly.com/product/0636920025368.do) | Andrew Lee Rubinger and Alask Knutsen |
 | [Java 8 in Action](https://www.amazon.com/Java-Action-Lambdas-functional-style-programming/dp/1617291994/ref=sr_1_1?s=books&ie=UTF8&qid=1485731328&sr=1-1&keywords=java+8+in+action) | Mario Fusco                           |
 | [Java EE 7 Essentials](https://www.amazon.com/Java-EE-Essentials-Enterprise-Developer/dp/1449370179/ref=sr_1_1?s=books&ie=UTF8&qid=1485731352&sr=1-1&keywords=java+ee+7+gupta) | Arun Gupta                            |
