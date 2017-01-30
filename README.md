@@ -87,3 +87,31 @@ This list is inspired by these sources and others:
 * https://devops.com/five-great-books-on-devops/
 * https://blog.versionone.com/the-7-best-devops-books/
 * https://www.quora.com/What-are-the-best-books-on-devops
+
+
+Additionally, books authored by Red Hat staff:
+
+This is a list of books (in no particular order) we keep in our library(s) which we love and recommend.
+
+| Title | Red Hat Author(s) |
+| :--- | :--- |
+| [OpenStack Security Guide](http://docs.openstack.org/security-guide/) | Keith Basil, Shawn Wells |
+| [Getting Started with OpenShift](http://shop.oreilly.com/product/0636920033226.do) | Steve Pousty |
+| [Raspberry Pi Hacks](http://shop.oreilly.com/product/0636920029083.do) | Ruth Suehle, Tom Callaway |
+| [Learning OpenShift](https://www.amazon.com/Learning-OpenShift-Grant-Shipley/dp/1783980966/ref=sr_1_1?ie=UTF8&qid=1485460923&sr=8-1&keywords=learning+openshift) | Grant Shipley |
+| [OpenShift for Developers](https://www.amazon.com/OpenShift-Developers-Guide-Impatient-Beginners/dp/1491961430/ref=mt_paperback?_encoding=UTF8&me=) | Grant Shipley and Graham Dumpleton |
+| [The Foundation for an open source city](http://www.lulu.com/shop/jason-hibbets/the-foundation-for-an-open-source-city/paperback/product-20984645.html) | Jason Hibbets |
+| [Testing Java Microservices](https://www.manning.com/books/testing-java-microservices) | Alex Soto, Jason Porter |
+| [Microservices for Java Developers](http://www.oreilly.com/programming/free/microservices-for-java-developers.csp) | Christian Posta |
+| [Apache Camel Developer's Cookbook](http://a.co/80kGePZ) | Scott Cranton and Jakub Korab |
+| [Apache Cookbook](https://www.amazon.com/Apache-Cookbook-Solutions-Examples-Administrators/dp/0596529945) | Rich Bowen |
+| [Continuous Enterprise Development in Java](http://shop.oreilly.com/product/0636920025368.do) | Andrew Lee Rubinger and Alask Knutsen |
+| [Java 8 in Action](https://www.amazon.com/Java-Action-Lambdas-functional-style-programming/dp/1617291994/ref=sr_1_1?s=books&ie=UTF8&qid=1485731328&sr=1-1&keywords=java+8+in+action) | Mario Fusco | 
+| [Java EE 7 Essentials](https://www.amazon.com/Java-EE-Essentials-Enterprise-Developer/dp/1449370179/ref=sr_1_1?s=books&ie=UTF8&qid=1485731352&sr=1-1&keywords=java+ee+7+gupta) | Arun Gupta |
+| [Minecraft Modding with Forge](https://www.amazon.com/Minecraft-Modding-Forge-Family-Friendly-Building/dp/1491918896/ref=sr_1_1?s=books&ie=UTF8&qid=1485731387&sr=1-1&keywords=minecraft+modding+with+forge+gupta) | Arun Gupta |
+| [Docker for Java Developers](http://www.oreilly.com/programming/free/docker-for-java-developers.csp) | Arun Gupta |
+| [Camel Design Patterns](https://leanpub.com/camel-design-patterns/) | Bilgin Ibryam |
+| [The Open Organization](https://www.amazon.com/Open-Organization-Igniting-Passion-Performance/dp/1625275277/ref=sr_1_1?s=books&ie=UTF8&qid=1485731525&sr=1-1&keywords=the+open+organization) | Jim Whitehurst |
+| [Mastering Cloudforms Automation](https://www.amazon.com/Mastering-CloudForms-Automation-Essential-Administrators/dp/1491957220/ref=sr_1_1?s=books&ie=UTF8&qid=1485731549&sr=1-1&keywords=mastering+cloudforms+automation) | Peter McGowan |
+| [OpenStack Administration with Ansible](https://www.amazon.com/OpenStack-Administration-Ansible-Walter-Bentley/dp/1785884611/ref=sr_1_1?s=books&ie=UTF8&qid=1485731579&sr=1-1&keywords=openstack+administration+with+ansible) | Walter Bently |
+
