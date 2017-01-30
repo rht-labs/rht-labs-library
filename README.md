@@ -77,7 +77,7 @@ This is a list of books (in no particular order) we keep in our library(s) which
 | Crossing the Chasm | by Geoffrey A. Moore |
 | The Innovator's Hypothesis | by Michael Schrage |
 | Time Management for System Administrators | Thomas A. Limoncelli |
-
+| Freedom's Forge | by Arthur Herman |
 
 This list is inspired by these sources and others:
 
