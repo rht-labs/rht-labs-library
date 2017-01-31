@@ -97,6 +97,12 @@ This is a list of books (in no particular order) we keep in our library(s) which
 | The Death and Life of Great American Cities | by Jane Jacobs                           |
 | How Buildings Learn: What Happens After They're Built | by Stewart Brand                         |
 | A Pattern Language: Towns, Buildings, Construction (Center for Environmental Structure) | by Christopher Alexander                 |
+| Cultivating Communities of Practice      | by Etienne Wenger, Richard A. McDermott, William M. Snyder      |
+| Digital Habitats: stewarding technology for communities      | by Etienne Wenger, Nancy White, and John D. Smith     |
+| Producing Open Source Software (2nd Edition)     |  by Karl Fogel     |
+| The Starfish and the Spider     |    by Ori Brafman and Rod A. Beckstrom     |
+| Wikinomics       |  by Don Tapscott and Anthony D. Williams     |
+| Open Advice - FOSS: What We Wish We Had Known When We Started   |  Edited by Lydia Pintscher & 43+ authors    |
 | The Mythical Man-Month                   | by Fred Brooks                           |
 | The Pragmatic Programmer                 | by Andrew Hunt, David Thomas             |
 | Code Complete 2nd Edition                | by Steve McConnell                       |
@@ -146,3 +152,5 @@ This list is inspired by these sources and others:
 - https://devops.com/five-great-books-on-devops/
 - https://blog.versionone.com/the-7-best-devops-books/
 - https://www.quora.com/What-are-the-best-books-on-devops
+- http://www.theopensourceway.org/wiki/Data_and_references
+
