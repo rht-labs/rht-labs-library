@@ -121,7 +121,10 @@ Additionally these books (appearing in no particular order) were writen by or co
 | [Minecraft Modding with Forge](https://www.amazon.com/Minecraft-Modding-Forge-Family-Friendly-Building/dp/1491918896/ref=sr_1_1?s=books&ie=UTF8&qid=1485731387&sr=1-1&keywords=minecraft+modding+with+forge+gupta) | Arun Gupta                            |
 | [Docker for Java Developers](http://www.oreilly.com/programming/free/docker-for-java-developers.csp) | Arun Gupta                            |
 | [Camel Design Patterns](https://leanpub.com/camel-design-patterns/) | Bilgin Ibryam                         |
-| [The Open Organization](https://www.amazon.com/Open-Organization-Igniting-Passion-Performance/dp/1625275277/ref=sr_1_1?s=books&ie=UTF8&qid=1485731525&sr=1-1&keywords=the+open+organization) | Jim Whitehurst                        |
+| [The Open Organization](https://www.amazon.com/Open-Organization-Igniting-Passion-Performance/dp/1625275277/) [Additional resources](https://opensource.com/open-organization/resources) | Jim Whitehurst                        |
+| [The Open Organization Field Guide](http://www.lulu.com/shop/opensourcecom/the-open-organization-field-guide/paperback/product-22765163.html) | by opensource.com                     |
+| [The Open Organization: Catalyst-In-Chief](http://www.lulu.com/shop/http://www.lulu.com/shop/opensourcecom/catalyst-in-chief/paperback/product-22797100.html) | by opensource.com                     |
+| [The Open Organization Leaders Manual](http://www.lulu.com/shop/http://www.lulu.com/shop/opensourcecom/the-open-organization-leaders-manual/paperback/product-22975775.html) | by opensource.com                     |
 | [Mastering Cloudforms Automation](https://www.amazon.com/Mastering-CloudForms-Automation-Essential-Administrators/dp/1491957220/ref=sr_1_1?s=books&ie=UTF8&qid=1485731549&sr=1-1&keywords=mastering+cloudforms+automation) | Peter McGowan                         |
 | [OpenStack Administration with Ansible](https://www.amazon.com/OpenStack-Administration-Ansible-Walter-Bentley/dp/1785884611/ref=sr_1_1?s=books&ie=UTF8&qid=1485731579&sr=1-1&keywords=openstack+administration+with+ansible) | Walter Bently                         |
 | Docker Containers (includes Content Update Program): Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic (Negus Live Linux) | by Christopher Negus                  |
