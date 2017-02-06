@@ -143,6 +143,14 @@ Additionally these books (appearing in no particular order) were writen by or co
 | Ceph Cookbook                            | by Karan Singh                        |
 
 
+## Retired (EOL) Books authored by Red Hat staff:
+
+These books (appearing in no particular order) were writen by or contributed to by Red Hat staff, but have reached their "End Of Life" and have effectively been retired.
+
+| Title                                    | Red Hat Author(s)                     |
+| ---------------------------------------- | ------------------------------------- |
+| [Implementing OpenShift](https://www.packtpub.com/virtualization-and-cloud/implementing-openshift) | Adam Miller |
+
 
 This list is inspired by these sources and others:
 
