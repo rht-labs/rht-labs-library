@@ -107,6 +107,8 @@ This is a list of books (in no particular order) we keep in our library(s) which
 | The Pragmatic Programmer                 | by Andrew Hunt, David Thomas             |
 | Code Complete 2nd Edition                | by Steve McConnell                       |
 | Managing Humans                          | by Michael Lopp (aka Rands)              |
+| The Go Programming Language              | by Alan A. A. Donovan, Brian W. Kernighan|
+
 
 
 ## Books authored by Red Hat staff:
