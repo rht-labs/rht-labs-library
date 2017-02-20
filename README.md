@@ -106,6 +106,7 @@ This is a list of books (in no particular order) we keep in our library(s) which
 | The Pragmatic Programmer                 | Andrew Hunt, David Thomas             |
 | Code Complete 2nd Edition                | Steve McConnell                       |
 | Managing Humans                          | Michael Lopp (aka Rands)              |
+| The Go Programming Language              | Alan A. A. Donovan, Brian W. Kernighan|
 | The Art of Unit Testing: with Examples in .NET | Roy Osherove                             |
 | Design Patterns: Elements of Reusable Object-Oriented Software | Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides |
 | Java Concurrency in Practice             | Brian Goetz, Joseph Bowbeer, Tim Peierls, Joshua Bloch |
