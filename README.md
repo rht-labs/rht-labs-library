@@ -147,6 +147,7 @@ Additionally these books (appearing in no particular order) were writen by or co
 | [The Open Organization Leaders Manual](http://www.lulu.com/shop/http://www.lulu.com/shop/opensourcecom/the-open-organization-leaders-manual/paperback/product-22975775.html) | by opensource.com                     |
 | [Mastering Cloudforms Automation](https://www.amazon.com/Mastering-CloudForms-Automation-Essential-Administrators/dp/1491957220/ref=sr_1_1?s=books&ie=UTF8&qid=1485731549&sr=1-1&keywords=mastering+cloudforms+automation) | Peter McGowan                         |
 | [OpenStack Administration with Ansible](https://www.amazon.com/OpenStack-Administration-Ansible-Walter-Bentley/dp/1785884611/ref=sr_1_1?s=books&ie=UTF8&qid=1485731579&sr=1-1&keywords=openstack+administration+with+ansible) | Walter Bently                         |
+| [Migrating to Microservice Databases: From Relational Monolith to Distributed Data](https://developers.redhat.com/promotions/migrating-to-microservice-databases/) | Edson Yanaga                         |
 | Docker Containers (includes Content Update Program): Build and Deploy with Kubernetes, Flannel, Cockpit, and Atomic (Negus Live Linux) | by Christopher Negus                  |
 | Ceph Cookbook                            | by Karan Singh                        |
 
