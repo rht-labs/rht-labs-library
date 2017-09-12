@@ -116,6 +116,10 @@ This is a list of books (in no particular order) we keep in our library(s) which
 | Head First Design Patterns               | Elisabeth Freeman, Eric Freeman, Bert Bates, Kathy Sierr |
 | Test Driven Development: By Example      | Kent Beck                                |
 | Mastering Regular Expressions 3rd Edition | Jeffrey E F Friedl                       |
+| Specification by Example: How Successful Teams Deliver the Right Software | Gojko Adzic                       |
+| Crucial Conversations Tools for Talking When Stakes Are High| Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler |
+| Crucial Accountability: Tools for Resolving Violated Expectations, Broken Commitments, and Bad Behavior |Kerry Patterson, Joseph Grenny, Ron McMillan, Al Switzler |
+
 
 ## Books authored by Red Hat staff:
 
